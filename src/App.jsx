@@ -10,7 +10,7 @@ import { Recipe } from './pages/Recipe'
 function App() {
     return (
         <>
-            <Router basename='/react-food-mealdbapi'>
+            <Router basename='/react-food-mealdbAPI'>
                 <Header />
                 <main className='container content'>
                     <Routes>
