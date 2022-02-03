@@ -7,7 +7,7 @@ export function Footer() {
                         © 2022 Copyright Text
                         <a
                             className='grey-text text-lighten-4 right'
-                            href='/#'
+                            href='https://github.com/AlisaKravchenko/react-food-mealdbAPI'
                             target='_blank'
                             rel='noreferrer'
                         >
