@@ -1,6 +1,6 @@
 {
   "name": "project-food-router",
-  "homepage": "https://alisakravchenko.github.io/react-food-mealdbapi",
+  "homepage": "https://alisakravchenko.github.io/food-catalog-mealdb",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
