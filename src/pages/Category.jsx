@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { useParams } from 'react-router-dom'
-import { useEffect } from 'react/cjs/react.development'
+import { useEffect } from 'react'
 import { getFilteredCategory } from '../api'
 import { MealList } from '../components/MealsList'
 import { Preloader } from '../components/Preloader'
