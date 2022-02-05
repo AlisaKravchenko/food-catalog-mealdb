@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { useParams } from 'react-router-dom'
-import { useEffect } from 'react/cjs/react.development'
+import { useEffect } from 'react'
 import { getMealById } from '../api'
 import { Preloader } from '../components/Preloader'
 import { RecipeContent } from '../components/RecipeContent'
