@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/food-catalog-mealdb/static/css/main.cb4031ee.css",
-    "main.js": "/food-catalog-mealdb/static/js/main.98f4f0b9.js",
+    "main.js": "/food-catalog-mealdb/static/js/main.3f1fb88f.js",
     "index.html": "/food-catalog-mealdb/index.html",
     "main.cb4031ee.css.map": "/food-catalog-mealdb/static/css/main.cb4031ee.css.map",
-    "main.98f4f0b9.js.map": "/food-catalog-mealdb/static/js/main.98f4f0b9.js.map"
+    "main.3f1fb88f.js.map": "/food-catalog-mealdb/static/js/main.3f1fb88f.js.map"
   },
   "entrypoints": [
     "static/css/main.cb4031ee.css",
-    "static/js/main.98f4f0b9.js"
+    "static/js/main.3f1fb88f.js"
   ]
 }
